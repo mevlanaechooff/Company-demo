@@ -1,3 +1,4 @@
 # Company-demo
 
-For pratice oop shell ___=___ seyhmus gurkan mustafa kemal university management information systems
+For pratice oop shell
+.{=>> seyhmus gurkan mustafa kemal university management information systems
